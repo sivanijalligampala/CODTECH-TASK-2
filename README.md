@@ -43,12 +43,12 @@ The Weather App utilizes an API (in this example, the WeatherAPI) to retrieve we
 
 ****Planning and Preparedness:**** The Weather App allows users to plan their activities and make informed decisions based on weather forecasts. They can adapt their schedules, clothing, or travel plans accordingly, enhancing safety and convenience.
 
-****API Integration****: By integrating with a weather API, the app can leverage the data and capabilities provided by the API, ensuring accurate and reliable weather information.
+****API Integration****: *By integrating with a weather API, the app can leverage the data and capabilities provided by the API, ensuring accurate and reliable weather information.*
 
 ****The Weather App project offers a practical and useful tool for users who want to stay informed about weather conditions. It demonstrates the power of HTML, CSS, and JavaScript in building web applications that interact with APIs and provide real-time data to enhance user experiences.****
 
 
-****OUTPUT****
+****OUTPUT:****
 
 
 
