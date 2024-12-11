@@ -6,7 +6,7 @@
 
 **ID**:CT08DS15
 
-**DOMAIN**:FRONTEND DEVELOPMENT 
+**DOMAIN**:WEATHER DASHBOARD 
 
 **DURATION**: DECCEMBER 5TH 2024 TO JANUARY 5TH 2024
 
@@ -35,20 +35,25 @@ The Weather App utilizes an API (in this example, the WeatherAPI) to retrieve we
 
 **Responsive Design** :The Weather App is designed to be responsive, ensuring that it works well on different devices and screen sizes. Users can access the app and view weather information on their desktops, laptops, tablets, or mobile devices.
 
-****BENEFITS****
+****BENEFITS  :****
 
-**Real-time Weather Information**: Users can obtain up-to-date weather data for any desired location, enabling them to make informed decisions based on current and forecasted weather conditions.
+****Real-time Weather Information:**** Users can obtain up-to-date weather data for any desired location, enabling them to make informed decisions based on current and forecasted weather conditions.
 
-**User-friendly Interface**: The application offers a clean and intuitive interface for entering locations and viewing weather information. It presents data in a clear and organized manner, enhancing the user experience.
+****User-friendly Interface:**** The application offers a clean and intuitive interface for entering locations and viewing weather information. It presents data in a clear and organized manner, enhancing the user experience.
 
-**Planning and Preparedness**: The Weather App allows users to plan their activities and make informed decisions based on weather forecasts. They can adapt their schedules, clothing, or travel plans accordingly, enhancing safety and convenience.
+****Planning and Preparedness:**** The Weather App allows users to plan their activities and make informed decisions based on weather forecasts. They can adapt their schedules, clothing, or travel plans accordingly, enhancing safety and convenience.
 
-**API Integration**: By integrating with a weather API, the app can leverage the data and capabilities provided by the API, ensuring accurate and reliable weather information.
+****API Integration****: By integrating with a weather API, the app can leverage the data and capabilities provided by the API, ensuring accurate and reliable weather information.
 
-**The Weather App project offers a practical and useful tool for users who want to stay informed about weather conditions. It demonstrates the power of HTML, CSS, and JavaScript in building web applications that interact with APIs and provide real-time data to enhance user experiences.**
+****The Weather App project offers a practical and useful tool for users who want to stay informed about weather conditions. It demonstrates the power of HTML, CSS, and JavaScript in building web applications that interact with APIs and provide real-time data to enhance user experiences.****
 
 
 ****OUTPUT****
+
+
+
+
+
 ![Screenshot 2024-12-11 133124](https://github.com/user-attachments/assets/cd8c4d84-b4a9-4ead-8b70-38e9b806d694)
 
 
